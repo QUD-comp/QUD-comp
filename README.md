@@ -1,5 +1,3 @@
-# Computational Approaches to Questions Under Discussion
-
 This set of repositories contains projects that try to build computational linguistic approaches for creating or processing Question Under Discussion (QUD) structures based on text. The projects originated as part of a class called "Questions and Models of Discourse", co-taught by Tatjana Scheffler and Malte Zimmermann at the University of Potsdam in Summer 2018. 
 
 ## Background
