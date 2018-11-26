@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Computational Approaches to Questions Under Discussion
 
-You can use the [editor on GitHub](https://github.com/TScheffler/QUD-comp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This set of repositories contains projects that try to build computational linguistic approaches for creating or processing Question Under Discussion structures based on text. The projects originated as part of a class called "Questions and Discourse Structure", co-taught by Tatjana Scheffler and Malte Zimmermann at the University of Potsdam in Summer 2018. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The individual projects contained in this repository are the following:
 
-### Markdown
+## 1. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 2.
 
-```markdown
-Syntax highlighted code block
+## 3.
 
-# Header 1
-## Header 2
-### Header 3
+## 4.
 
-- Bulleted
-- List
+## 5. 
 
-1. Numbered
-2. List
+## Contact and Further Information
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TScheffler/QUD-comp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For further information, contact Tatjana Scheffler: tatjana.scheffler@uni-potsdam.de
