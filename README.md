@@ -35,7 +35,7 @@ Finally, when comparing and evaluating QUD structures, individual *questions* ne
 
 ## Contact and Further Information
 
-For further information, contact Tatjana Scheffler: [tatjana.scheffler@uni-potsdam.de]
+For further information, contact [Tatjana Scheffler](mailto:tatjana.scheffler@uni-potsdam.de)
 
 ## Some References
 
