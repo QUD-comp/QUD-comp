@@ -16,7 +16,7 @@ One issue with QUD trees is that they are often created ad-hoc by linguists to e
 ## 2. Generating Potential Questions
 A central problem for QUD analyses is which "next questions" are available at a given point in discourse. Onea (cit.) introduces the notion of *potential question* and presents a range of constraints/standard strategies for such potential questions based on linguistic phenomena. In this project, the given strategies from Onea are evaluated for their potential automation and are implemented in a system that automatically generates potential "follow-up" questions based on a given sentence.
 
-[Repository: Generating potential questions]()
+[Repository: Generating potential questions](https://github.com/QUD-comp/potential-questions)
 
 ## 3. Ranking Potential Questions
 Given a range of possible *potential questions* (see above), the QUD model makes some predictions as to their preferential order. This project implements a ranking system that evaluates the fit of a given question with regard to its preceding utterance. In order to do this, a new dataset is created for training a machine learning system for ranking questions.
